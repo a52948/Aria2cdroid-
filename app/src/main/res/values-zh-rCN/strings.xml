@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_wait">请稍后...</string>
+    <string name="starting">启动中...</string>
+    <string name="stopping">停止中...</string>
+    <string name="setting">设置</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="port">端口</string>
+    <string name="about">关于</string>
+    <string name="open_source_licence">许可</string>
+    <string name="rate">评分</string>
+    <string name="update_tracker">更新Trackers</string>
+    <string name="request_google_play">你没有安装 Google Play 应用商店</string>
+    <string name="update_tracker_success">更新 Trackers 成功</string>
+    <string name="update_tracker_fail">更新 Trackers 失败</string>
+    <string name="service_start_alrerady">服务已经启动，进程PID:</string>
+    <string name="listen_service_fail">监听服务启动失败</string>
+    <string name="listen_service_success">监听服务启动成功</string>
+    <string name="service_stop_alrerady">服务已经停止</string>
+    <string name="app_description">Aria2 Android 服务端，提供强大的下载功能。</string>
+    <string name="app_project">Aria2 Github:https://github.com/aria2/aria2</string>
+    <string name="app_contact">意见建议: xyq@dr.com</string>
+    <string name="log_output">启用日志</string>
+    <string name="rpc_secret">RPC-Secret连接密钥</string>
+    <string name="download_dir">下载位置</string>
+    <string name="input_trackers">Trackers(用逗号隔开)</string>
+    <string name="try_luck">试试手气</string>
+    <string name="stopped">已停止</string>
+    <string name="service_is_running">服务正在运行</string>
+    <string name="open_aria2_client">打开Aria2客户端</string>
+    <string name="no_aria2_client">未在你手机上发现Aria2App客户端程序，将带你去应用商店下载</string>
+</resources>

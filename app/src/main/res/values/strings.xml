@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">Aria2</string>
+    <string name="service_is_running">Server Not Running...</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="starting">Starting...</string>
+    <string name="stopping">Stoping...</string>
+    <string name="setting">Setting</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="port">Port</string>
+    <string name="about">About</string>
+    <string name="open_source_licence">Licence</string>
+    <string name="rate">Rate me</string>
+    <string name="update_tracker">Update Trackers</string>
+    <string name="request_google_play">No google play store found</string>
+    <string name="update_tracker_success">Update trackers successful</string>
+    <string name="update_tracker_fail">Update trackers failed</string>
+    <string name="service_start_alrerady">Service already start,The PID is</string>
+    <string name="listen_service_fail">Listen aria2 service failed</string>
+    <string name="listen_service_success">listen aria2 service successful</string>
+    <string name="service_stop_alrerady">service stopped already</string>
+    <string name="app_description">Aria2 Server For Android Platform,Download Http/Https/ed2k/torrent very fast</string>
+    <string name="app_project">The App is based on Aria2c,https://github.com/aria2/aria2</string>
+    <string name="app_contact">E-mail:xyq@dr.com</string>
+    <string name="log_output">Enable log output</string>
+    <string name="rpc_secret">RPC-Secret</string>
+    <string name="download_dir">Download location</string>
+    <string name="input_trackers">Input trackers,split them by comma</string>
+    <string name="try_luck">Try your luck</string>
+    <string name="stopped">Stopped</string>
+    <string name="open_aria2_client">Open aria2 client</string>
+    <string name="no_aria2_client">No Aria2App found on your phone,Will take you to download from app store</string>
+</resources>
