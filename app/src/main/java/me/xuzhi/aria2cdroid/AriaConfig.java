@@ -64,7 +64,7 @@ public class AriaConfig implements Serializable {
                 trackerParas = " --bt-tracker=" + stringBuilderTrackers.toString();
             }
         }
-        return "--enable-rpc --rpc-listen-all --dir=" + dir + " " +
+        return "--check-certificate=false --enable-rpc --rpc-listen-all --dir=" + dir + " " +
                 "--rpc-allow-origin-all --rpc-secret=" + secret + trackerParas;
     }
 }
