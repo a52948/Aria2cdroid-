@@ -6,8 +6,8 @@ android {
         applicationId "me.xuzhi.aria2cdroid"
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 190130
-        versionName "1.5"
+        versionCode 190215
+        versionName "1.6_demo"
     }
     buildTypes {
         release {
